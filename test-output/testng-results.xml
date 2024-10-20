@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-16T12:42:26 IST" name="Default suite" finished-at="2024-09-16T12:42:26 IST" duration-ms="65">
+    <groups>
+    </groups>
+    <test started-at="2024-09-16T12:42:26 IST" name="Default test" finished-at="2024-09-16T12:42:26 IST" duration-ms="65">
+      <class name="com.testng.SimpleAnnotations">
+        <test-method is-config="true" signature="propertySetting()[pri:0, instance:com.testng.SimpleAnnotations@58cbafc2]" started-at="2024-09-16T12:42:26 IST" name="propertySetting" finished-at="2024-09-16T12:42:26 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- propertySetting -->
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.testng.SimpleAnnotations@58cbafc2]" started-at="2024-09-16T12:42:26 IST" name="browserLaunch" finished-at="2024-09-16T12:42:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method is-config="true" signature="urlLanuch()[pri:0, instance:com.testng.SimpleAnnotations@58cbafc2]" started-at="2024-09-16T12:42:26 IST" name="urlLanuch" finished-at="2024-09-16T12:42:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlLanuch -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.testng.SimpleAnnotations@58cbafc2]" started-at="2024-09-16T12:42:26 IST" name="login" finished-at="2024-09-16T12:42:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="child()[pri:0, instance:com.testng.SimpleAnnotations@58cbafc2]" started-at="2024-09-16T12:42:26 IST" name="child" finished-at="2024-09-16T12:42:26 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- child -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.testng.SimpleAnnotations@58cbafc2]" started-at="2024-09-16T12:42:26 IST" name="logout" finished-at="2024-09-16T12:42:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="men()[pri:0, instance:com.testng.SimpleAnnotations@58cbafc2]" started-at="2024-09-16T12:42:26 IST" name="men" finished-at="2024-09-16T12:42:26 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- men -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.testng.SimpleAnnotations@58cbafc2]" started-at="2024-09-16T12:42:26 IST" name="login" finished-at="2024-09-16T12:42:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.testng.SimpleAnnotations@58cbafc2]" started-at="2024-09-16T12:42:26 IST" name="logout" finished-at="2024-09-16T12:42:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.testng.SimpleAnnotations@58cbafc2]" started-at="2024-09-16T12:42:26 IST" name="login" finished-at="2024-09-16T12:42:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="women()[pri:0, instance:com.testng.SimpleAnnotations@58cbafc2]" started-at="2024-09-16T12:42:26 IST" name="women" finished-at="2024-09-16T12:42:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- women -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.testng.SimpleAnnotations@58cbafc2]" started-at="2024-09-16T12:42:26 IST" name="logout" finished-at="2024-09-16T12:42:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="screeshot()[pri:0, instance:com.testng.SimpleAnnotations@58cbafc2]" started-at="2024-09-16T12:42:26 IST" name="screeshot" finished-at="2024-09-16T12:42:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screeshot -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.testng.SimpleAnnotations@58cbafc2]" started-at="2024-09-16T12:42:26 IST" name="close" finished-at="2024-09-16T12:42:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="terminate()[pri:0, instance:com.testng.SimpleAnnotations@58cbafc2]" started-at="2024-09-16T12:42:26 IST" name="terminate" finished-at="2024-09-16T12:42:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+      </class> <!-- com.testng.SimpleAnnotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
